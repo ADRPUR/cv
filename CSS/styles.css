@@ -1,0 +1,225 @@
+#logo {
+  width: 80px;
+  height: 80px;
+
+
+}
+
+#hello {
+  margin: 100px 0;
+}
+
+#title {
+  background-color: #E4F9F5;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: rgb(59, 184, 203);
+  position: relative;
+  padding-top: 50px;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-top: 50px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+
+
+
+p {
+  color: #8f8f8f;
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+a:hover {
+  color: #EAF6F6;
+  text-decoration: none;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.navbar {
+  padding: 8px 0;
+
+}
+
+/* .navbar-nav {
+  margin-right: 50px;
+} */
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.btn {
+
+  background-color: rgb(59, 184, 203);
+  font-family: "Montserrat";
+}
+
+.btn:hover {
+  color: #8f8f8f;
+  background-color: white;
+}
+
+.contact-me {
+  padding-bottom: 100px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  margin-bottom: 0;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cooking-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.summary-personal {
+  padding: 0 10px;
+  margin-left: 10px;
+}
+
+.summary {
+  text-align: left;
+  padding-left: 10px;
+}
+
+.skills-information {
+  width: 35%;
+  margin-left: 100px;
+
+}
+
+.table {
+  font-family: 'Merriweather', serif;
+  color: #8f8f8f;
+
+}
+
+.languages {
+
+}
+
+.row-skils {
+  padding-left: 0;
+}
+
+#skills {
+  padding-left: 0;
+}
+
+p.skills {
+  text-align: left;
+  padding-left: 12px;
+
+}
+h3.skills {
+  text-align: left;
+  padding-left: 12px;
+  font-size: 23px;
+}
+
+.row-skils {
+  padding-top: 50px;
+}
+
+.link-academy:hover {
+  color: #8f8f8f;
+}
